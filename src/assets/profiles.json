@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "John Doe",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxYA4yTn5sczM4j6psN48F0zJk8zELz2nT4A&s",
+    "description": "Web Developer at ABC Corp",
+    "address": "1600 Amphitheatre Parkway, Mountain View, CA",
+    "lat": 37.42216,
+    "lng": -122.08427
+  },
+  {
+    "id": "2",
+    "name": "Jane Smith",
+    "photo": "https://plus.unsplash.com/premium_photo-1678197937465-bdbc4ed95815?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGVyc29ufGVufDB8fDB8fHww",
+    "description": "Designer at XYZ Ltd",
+    "address": "1 Infinite Loop, Cupertino, CA",
+    "lat": 37.33182,
+    "lng": -122.03118
+  }
+]
